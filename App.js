@@ -6,7 +6,7 @@ import { Constants } from 'expo';
 import AssetExample from './components/AssetExample';
 
 // or any pure javascript modules available in npm
-
+// test comment2222
 
 export default class App extends Component {
   render() {
