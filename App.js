@@ -7,6 +7,7 @@ import AssetExample from './components/AssetExample';
 
 // or any pure javascript modules available in npm
 // test comment2222
+// test comment 3333
 
 export default class App extends Component {
   render() {
